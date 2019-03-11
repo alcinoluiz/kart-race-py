@@ -1,0 +1,5 @@
+Versão do python: Python 3.6.8 :: Anaconda 4.3.1 (64-bit)
+OS: Xubuntu 18.04
+
+Como utilizar (terminal):
+ptyhon log.py [nome do arquivo]
